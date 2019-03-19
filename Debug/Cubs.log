@@ -1,6 +1,0 @@
-﻿  funcs.cpp
-d:\c++\cubs\cubs\funcs.cpp(61): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-d:\c++\cubs\cubs\funcs.cpp(64): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-d:\c++\cubs\cubs\funcs.cpp(71): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-d:\c++\cubs\cubs\funcs.cpp(79): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Cubs.vcxproj -> D:\C++\Cubs\Debug\Cubs.exe
