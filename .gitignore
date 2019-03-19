@@ -1,0 +1,17 @@
+
+.gitattributes
+Cubs.vcxproj
+Cubs.vcxproj.filters
+Cubs.vcxproj.user
+Debug/Cubs.log
+Debug/Cubs.obj
+Debug/Cubs.tlog/CL.command.1.tlog
+Debug/Cubs.tlog/CL.read.1.tlog
+Debug/Cubs.tlog/CL.write.1.tlog
+Debug/Cubs.tlog/Cubs.lastbuildstate
+Debug/Cubs.tlog/link.command.1.tlog
+Debug/Cubs.tlog/link.read.1.tlog
+Debug/Cubs.tlog/link.write.1.tlog
+Debug/funcs.obj
+Debug/vc141.idb
+Debug/vc141.pdb
